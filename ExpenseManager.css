@@ -1,0 +1,76 @@
+body{
+    background-image: url("MainScreenImage.jpg");
+    background-size: cover;
+    position: relative;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.MainPageStyle{
+    text-shadow: 2px 2px darkcyan;
+    border-radius: 4px;
+    font-size: 130;
+    position: static;
+    font-weight: bold;
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.addEditCategoryPaymentButtonStyle{
+    font-weight: bold;
+    font-family: "Times New Roman", Georgia, Serif;
+    background-color: antiquewhite;
+    box-shadow: 0 2px #999;
+    border-radius: 8px;
+    padding: 10px 10px;
+    margin: 20px;
+    margin-top: 110px;
+    font-size: 34px;
+}
+
+.addEditExpenseButtonStyle{
+    font-weight: bold;
+    font-family: "Times New Roman", Georgia, Serif;
+    background-color: antiquewhite;
+    box-shadow: 0 2px #999;
+    border-radius: 8px;
+    padding: 10px 10px;
+    margin: 20px;
+    font-size: 34px;
+}
+
+.ExpensesStyle{
+    font-weight: bold;
+    font-family: "Times New Roman", Georgia, Serif;
+    background-color: antiquewhite;
+    box-shadow: 0 2px #999;
+    border-radius: 8px;
+    padding: 10px 10px;
+    margin: 20px;
+    font-size: 34px;
+}
+
+.addEditCategoryPaymentButtonStyle:hover {
+    background-color: ghostwhite;
+}
+
+.addEditExpenseButtonStyle:hover {
+    background-color: ghostwhite;
+}
+
+.ExpensesStyle:hover {
+    background-color: ghostwhite;
+}
+
+.addEditCategoryPaymentButtonStyle a{
+    text-decoration: none;
+    color: sandybrown;
+}
+.addEditExpenseButtonStyle a{
+    text-decoration: none;
+    color: sandybrown;
+}
+.ExpensesStyle a{
+    text-decoration: none;
+    color: sandybrown;
+}
